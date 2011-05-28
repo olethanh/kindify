@@ -23,7 +23,7 @@ kindify <url>
 Author
 ------
 Olivier Lê Thanh Duong <olivier@lethanh.be>
-based on an idea from Laurent Peutch
+based on an idea from Laurent Peuch
 
 Licence
 -------
