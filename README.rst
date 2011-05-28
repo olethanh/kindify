@@ -1,7 +1,9 @@
 Kindify
 =======
 
-Kindify is a script to transform a single web page to a mobi ebook
+Kindify is a script to transform a single web page to a mobi ebook.
+
+It download the script via WGET, pass it through decruft (a python port of readability) to extract the main content, then finally pass it to mobigen.
 
 Requirements
 ------------
